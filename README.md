@@ -9,7 +9,7 @@ Inicio de investigación sobre Industria Extractivista en Chile, para desarrollo
 5. “Poner en duda la certeza jurídica de los derechos de agua es un error” [Entrevista a Patricio Crespo](https://www.ciperchile.cl/2014/08/13/%e2%80%9cponer-en-duda-la-certeza-juridica-de-los-derechos-de-agua-es-un-error%e2%80%9d/)
 6. E. Gudynas. [Extractivismos: el concepto, sus expresiones y sus múltiples violencias](http://gudynas.com/wp-content/uploads/GudynasExtractivismosConceptoViolenciasFuhem18.pdf)
 7. Extractivismo en Chile: [la producción del territorio minero y las luchas del pueblo aimara en el Norte Grande.](http://www.scielo.org.co/pdf/rci/n98/0121-5612-rci-98-00003.pdf)
-Nuevo escape de salmones en Los Lagos: un problema político, [CIPER.](https://www.ciperchile.cl/2020/07/08/nuevo-escape-de-salmones-en-los-lagos-un-problema-politico/)
+8. Nuevo escape de salmones en Los Lagos: un problema político, [CIPER.](https://www.ciperchile.cl/2020/07/08/nuevo-escape-de-salmones-en-los-lagos-un-problema-politico/)
 
 ### ideas de estrucutra
 1. extractivismo y derechos de la naturaleza: una propuesta hacia una nueva constitución
