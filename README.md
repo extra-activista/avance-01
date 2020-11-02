@@ -16,3 +16,7 @@ Inicio de investigación sobre Industria Extractivista en Chile, para desarrollo
 2. radiografía de la industria extractivista en Chile: definiciones, producción, impactos, conflictos socioambientales adjuntos
 3. análisis de la industria extractivista por "tema": recurso de explotación, territorio (cómo afecta la etxracción fuera del recurso que extraen) e impacto en las comunidades
 4. plan E: elegir un tema (agua, suelo, aire, territorio y comunidad, mercado, etc) y estudiar el impacto que generan las industrias extractivistas (según recurso de extracción) en el tema
+
+### Corrección (2-11-2020)
+- Considerar un tema más específico es suficiente para la infografica (ejemplificar con un caso visualmente).
+- Geo-referenciacion del extractivismo en Chile.
