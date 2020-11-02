@@ -20,3 +20,4 @@ Inicio de investigación sobre Industria Extractivista en Chile, para desarrollo
 ### Corrección (2-11-2020)
 - Considerar un tema más específico es suficiente para la infografica (ejemplificar con un caso visualmente).
 - Geo-referenciacion del extractivismo en Chile.
+- Centrar más el tema
